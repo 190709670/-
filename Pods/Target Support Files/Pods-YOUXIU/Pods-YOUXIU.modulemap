@@ -1,0 +1,6 @@
+framework module Pods_YOUXIU {
+  umbrella header "Pods-YOUXIU-umbrella.h"
+
+  export *
+  module * { export * }
+}
